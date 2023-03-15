@@ -1,0 +1,10 @@
+# This file was automatically created by KIE Sandbox. Please don't modify it.
+name: Quarkus
+iconUrl: >-
+  https://github.com/thiagoelg/kie-sandbox-quarkus-template/raw/0.0.0/quarkus-logo.png
+gitRepositoryUrl: https://github.com/thiagoelg/kie-sandbox-quarkus-template
+gitRepositoryGitRef: 0.0.0
+dmnDestinationFolder: src/main/resources/dmn
+bpmnDestinationFolder: src/main/resources/bpmn
+otherFilesDestinationFolder: src/main/resources/others
+appliedAt: '2023-03-15T15:56:05.163Z'
